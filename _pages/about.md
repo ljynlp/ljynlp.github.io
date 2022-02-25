@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Currently I am a third-year M.Sc. student (2019-2022) of School of Cyber Science and Engineering at Wuhan University, advised by Prof. Donghong Ji and Associate Prof. Fei Li. I got my B.Sc. degree in School of Computer Science in June 2019 from Wuhan University. In the same year, I was admitted to study for a M.Sc degree in Wuhan University without entrance examination. I have much interest in natural language processing. Recently, I mainly focus on Sentiment Analysis and Information Extraction. I have 6 papers accepted by top-tier conferences such as AAAI, ACL and COLING.
+Currently I am a M.Sc. student (2019-2022) of School of Cyber Science and Engineering at [Wuhan University](https://whu.edu.cn), advised by [Prof. Donghong Ji](https://scholar.google.com/citations?user=2Q-7u3AAAAAJ) and [Associate Prof. Fei Li](https://scholar.google.com/citations?user=AoMmysMAAAAJ&hl=en). I got my B.Sc. degree in School of Computer Science in June 2019 from Wuhan University. In the same year, I was admitted to study for a M.Sc degree in Wuhan University without entrance examination. I have much interest in natural language processing. Recently, I mainly focus on Sentiment Analysis and Information Extraction. I have 6 papers accepted by top-tier conferences such as AAAI, ACL and COLING.
 
 Academic Activities
 ======
