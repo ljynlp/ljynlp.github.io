@@ -15,6 +15,7 @@ Education
 <style>
 td, th {
    border: none!important;
+   font-size: 14px;
 }
 </style>
 
