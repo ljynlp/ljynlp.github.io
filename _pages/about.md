@@ -33,7 +33,7 @@ td, th {
         <br>
 	    M.S. in Cyberspace Security
         <br>
-         Supervisor: <a href="https://scholar.google.com/citations?user=2Q-7u3AAAAAJ">Prof. Donghong Ji</a>
+         Supervisor: <a href="https://scholar.google.com/citations?user=2Q-7u3AAAAAJ">Prof. Donghong Ji</a> and [Associate Prof. Fei Li](https://scholar.google.com/citations?user=AoMmysMAAAAJ&hl=en)
 		</div>
 	</td></tr></tbody>
 </table>
@@ -49,7 +49,7 @@ td, th {
         School of Computer Science, Wuhan University, China
         </b>
         <br>
-	    B.S. in Computer Science and Technology
+	    B.S. in Software Engineering
 		</div>
 	</td></tr></tbody>
 </table>
@@ -63,7 +63,7 @@ Publications
 
 2022
 -----
-* Wenxuan Shi, Fei Li, <b>Jingye Li</b>, Hao Fei, Donghong Ji. Effective Token Graph Modeling Using a Novel Labeling Strategy for Structured Sentiment Analysis. In Proceedings of the ACL 2022.
+* Wenxuan Shi, Fei Li, <b>Jingye Li</b>, Hao Fei, Donghong Ji. Effective Token Graph Modeling using a Novel Labeling Strategy for Structured Sentiment Analysis. In Proceedings of the ACL 2022.
 
 * Hao Fei, <b>Jingye Li</b>, Yafeng Ren, Meishan Zhang and Donghong Ji. Making Decision like Human: Joint Aspect Category Sentiment Analysis and Rating Prediction with Fine-to-Coarse Reasoning. In Proceedings of the WWW 2022.
 
@@ -74,7 +74,7 @@ Publications
 
 * <b>Jingye Li</b>, Kang Xu, Fei Li, Hao Fei, Yafeng Ren, Donghong Ji. MRN: A Locally and Globally Mention-Based Reasoning Network for Document-Level Relation Extraction. In Proceedings of the ACL (Findings) 2021. [[PDF](https://aclanthology.org/2021.findings-acl.117.pdf)] [[Code](https://github.com/ljynlp/MRN)]
 
-* Shengqiong Wu, Hao Fei, Yafeng Ren, Donghong Ji, <b>Jingye Li</b>. Learn from Syntax: Improving Pair-wise Aspect and Opinion Terms Extractionwith Rich Syntactic Knowledge. In Proceedings of the IJCAI 2021. [[PDF](https://arxiv.org/pdf/2105.02520.pdf)] [[Code](https://github.com/ChocoWu/Synfue-PAOTE)]
+* Shengqiong Wu, Hao Fei, Yafeng Ren, Donghong Ji, <b>Jingye Li</b>. Learn from Syntax: Improving Pair-wise Aspect and Opinion Terms Extraction with Rich Syntactic Knowledge. In Proceedings of the IJCAI 2021. [[PDF](https://arxiv.org/pdf/2105.02520.pdf)] [[Code](https://github.com/ChocoWu/Synfue-PAOTE)]
 
 2020
 -----
