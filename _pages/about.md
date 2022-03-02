@@ -33,7 +33,7 @@ td, th {
         <br>
 	    M.S. in Cyberspace Security
         <br>
-         Supervisor: <a href="https://scholar.google.com/citations?user=2Q-7u3AAAAAJ">Prof. Donghong Ji</a> and [Associate Prof. Fei Li](https://scholar.google.com/citations?user=AoMmysMAAAAJ&hl=en)
+         Supervisor: <a href="https://scholar.google.com/citations?user=2Q-7u3AAAAAJ">Prof. Donghong Ji</a> and <a href="https://scholar.google.com/citations?user=AoMmysMAAAAJ&hl=en">Associate Prof. Fei Li</a>
 		</div>
 	</td></tr></tbody>
 </table>
