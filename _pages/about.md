@@ -63,7 +63,7 @@ Publications
 
 2022
 -----
-* Wenxuan Shi, Fei Li, <b>Jingye Li</b>, Hao Fei, Donghong Ji. Effective Token Graph Modeling using a Novel Labeling Strategy for Structured Sentiment Analysis. In Proceedings of the ACL 2022.
+* Wenxuan Shi, Fei Li, <b>Jingye Li</b>, Hao Fei, Donghong Ji. Effective Token Graph Modeling using a Novel Labeling Strategy for Structured Sentiment Analysis. In Proceedings of the ACL 2022. [[PDF](https://arxiv.org/pdf/2203.10796.pdf)] [[Code](https://github.com/Xgswlg/TGLS)]
 
 * Hao Fei, <b>Jingye Li</b>, Yafeng Ren, Meishan Zhang and Donghong Ji. Making Decision like Human: Joint Aspect Category Sentiment Analysis and Rating Prediction with Fine-to-Coarse Reasoning. In Proceedings of the WWW 2022.
 
