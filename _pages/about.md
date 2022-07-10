@@ -56,7 +56,7 @@ td, th {
 
 Academic Services
 ======
-* Reviewer: ACL Rolling Review, ACL 2022, NAACL 2022
+* Reviewer: ACL Rolling Review, ACL 2022, NAACL 2022, COLING 2022
 
 Publications
 ======
