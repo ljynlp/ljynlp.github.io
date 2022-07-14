@@ -63,6 +63,10 @@ Publications
 
 2022
 -----
+* Hao Fei, Fei Li, Chenliang Li, Shengqiong Wu, <b>Jingye Li</b>, Donghong Ji. Inheriting the Wisdom of Predecessors: A Multiplex Cascade Framework for Unified Aspect-based Sentiment Analysis. In Proceedings of the IJCAI 2022.
+
+* Hao Fei, Fei Li, <b>Jingye Li</b>, Shengqiong Wu, Chenliang Li, Donghong Ji. Global Inference with Explicit Syntactic and Discourse Structures for Dialogue-Level Relation Extraction. In Proceedings of the IJCAI 2022.
+
 * Wenxuan Shi, Fei Li, <b>Jingye Li</b>, Hao Fei, Donghong Ji. Effective Token Graph Modeling using a Novel Labeling Strategy for Structured Sentiment Analysis. In Proceedings of the ACL 2022. [[PDF](https://arxiv.org/pdf/2203.10796.pdf)] [[Code](https://github.com/Xgswlg/TGLS)]
 
 * Hao Fei, <b>Jingye Li</b>, Yafeng Ren, Meishan Zhang and Donghong Ji. Making Decision like Human: Joint Aspect Category Sentiment Analysis and Rating Prediction with Fine-to-Coarse Reasoning. In Proceedings of the WWW 2022. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3485447.3512024?casa_token=srSjwtvjorEAAAAA:x5A6uLpMjkXjp285sKpbsAVs7Fl-YNIg4vibmTlsr9zDPsVEFE8m3hp6rE6YGmVByn81Wr0QROSQyg)]
