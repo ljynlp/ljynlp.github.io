@@ -7,8 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-I am a M.S. student (2019-2022) of School of Cyber Science and Engineering at [Wuhan University](https://whu.edu.cn), advised by [Prof. Donghong Ji](https://scholar.google.com/citations?user=2Q-7u3AAAAAJ) and [Associate Prof. Fei Li](https://scholar.google.com/citations?user=AoMmysMAAAAJ&hl=en). I got my B.S. degree in School of Computer Science in June 2019 from Wuhan University. I have much interest in natural language processing. Recently, I mainly focus on <b>Sentiment Analysis</b> and <b>Information Extraction</b>.
+I am currently a machine learning engineer in Douyin search team at Bytedance, Beijing. Before joining Bytedance, I was a M.S. student (2019-2022) of School of Cyber Science and Engineering at [Wuhan University](https://whu.edu.cn), advised by [Prof. Donghong Ji](https://scholar.google.com/citations?user=2Q-7u3AAAAAJ) and [Associate Prof. Fei Li](https://scholar.google.com/citations?user=AoMmysMAAAAJ&hl=en). I got my B.S. degree in School of Computer Science in June 2019 from Wuhan University. I have much interest in natural language processing. Recently, I mainly focus on <b>Sentiment Analysis</b> and <b>Information Extraction</b>.
 
 Education
 ======
