@@ -62,9 +62,13 @@ Publications
 
 2022
 -----
-* Hao Fei, Fei Li, Chenliang Li, Shengqiong Wu, <b>Jingye Li</b>, Donghong Ji. Inheriting the Wisdom of Predecessors: A Multiplex Cascade Framework for Unified Aspect-based Sentiment Analysis. In Proceedings of the IJCAI 2022.
+* Hu Cao, <b>Jingye Li</b>, Fangfang Su, Fei Li, Hao Fei, Shengqiong Wu, Bobo Li, Liang Zhao, Donghong Ji. OneEE: A One-Stage Framework for Fast Overlapping and Nested Event Extraction. In Proceedings of the COLING 2022. [[PDF](https://arxiv.org/pdf/2209.02693.pdf)] [[Code](https://github.com/Cao-Hu/OneEE)]
 
-* Hao Fei, <b>Jingye Li</b>, Shengqiong Wu, Chenliang Li, Donghong Ji, Fei Li. Global Inference with Explicit Syntactic and Discourse Structures for Dialogue-Level Relation Extraction. In Proceedings of the IJCAI 2022.
+* Shunjie Chen, Xiaochuan Shi, <b>Jingye Li</b>, Shengqiong Wu, Hao Fei, Fei Li, Donghong Ji. Joint Alignment of Multi-Task Feature and Label Spaces for Emotion Cause Pair Extraction. In Proceedings of the COLING 2022. [[PDF](https://arxiv.org/pdf/2209.04112.pdf)] [[Code](https://github.com/csj199813/A2Net_ECPE)]
+
+* Hao Fei, Fei Li, Chenliang Li, Shengqiong Wu, <b>Jingye Li</b>, Donghong Ji. Inheriting the Wisdom of Predecessors: A Multiplex Cascade Framework for Unified Aspect-based Sentiment Analysis. In Proceedings of the IJCAI 2022. [[PDF](https://www.ijcai.org/proceedings/2022/0572.pdf)] [[Code](https://github.com/scofield7419/UABSA-SyMux)] 
+
+* Hao Fei, <b>Jingye Li</b>, Shengqiong Wu, Chenliang Li, Donghong Ji, Fei Li. Global Inference with Explicit Syntactic and Discourse Structures for Dialogue-Level Relation Extraction. In Proceedings of the IJCAI 2022. [[PDF](https://www.ijcai.org/proceedings/2022/0570.pdf)] [[Code](https://github.com/scofield7419/DiaRE-D2G)]
 
 * Wenxuan Shi, Fei Li, <b>Jingye Li</b>, Hao Fei, Donghong Ji. Effective Token Graph Modeling using a Novel Labeling Strategy for Structured Sentiment Analysis. In Proceedings of the ACL 2022. [[PDF](https://arxiv.org/pdf/2203.10796.pdf)] [[Code](https://github.com/Xgswlg/TGLS)]
 
