@@ -62,6 +62,10 @@ Publications
 
 2022
 -----
+* Jiang Liu, Donghong Ji, Jingye Li, Dongdong Xie, Chong Teng, Liang Zhao, Fei Li. TOE: A Grid-Tagging Discontinuous NER Model Enhanced by Embedding Tag/Word Relations and More Fine-Grained Tags. [[PDF](https://arxiv.org/pdf/2211.00684.pdf)] [[Code](https://github.com/solkx/TOE)]
+
+* Fengqi Wang, Fei Li, Hao Fei, Jingye Li, Shengqiong Wu, Fangfang Su, Wenxuan Shi, Donghong Ji, Bo Cai. Entity-centered Cross-document Relation Extraction. In Proceedings of the EMNLP 2022. [[PDF](https://arxiv.org/pdf/2210.16541.pdf)] [[Code](https://github.com/MakiseKuurisu/ecrim)]
+
 * Hu Cao, <b>Jingye Li</b>, Fangfang Su, Fei Li, Hao Fei, Shengqiong Wu, Bobo Li, Liang Zhao, Donghong Ji. OneEE: A One-Stage Framework for Fast Overlapping and Nested Event Extraction. In Proceedings of the COLING 2022. [[PDF](https://arxiv.org/pdf/2209.02693.pdf)] [[Code](https://github.com/Cao-Hu/OneEE)]
 
 * Shunjie Chen, Xiaochuan Shi, <b>Jingye Li</b>, Shengqiong Wu, Hao Fei, Fei Li, Donghong Ji. Joint Alignment of Multi-Task Feature and Label Spaces for Emotion Cause Pair Extraction. In Proceedings of the COLING 2022. [[PDF](https://arxiv.org/pdf/2209.04112.pdf)] [[Code](https://github.com/csj199813/A2Net_ECPE)]
